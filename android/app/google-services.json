@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "188256964344",
+    "project_id": "fir-atenticatipon",
+    "storage_bucket": "fir-atenticatipon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188256964344:android:a3b38b279ed57c297e750d",
+        "android_client_info": {
+          "package_name": "com.example.registration2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188256964344-0o507pidglp9cq24bnq2j174bga4kkbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn2OitvzzxAsMCHFNjUgtShaDINOpY818"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188256964344-0o507pidglp9cq24bnq2j174bga4kkbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188256964344-tv960f5r7n18c37gr5bmgf6v395loksc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.registration2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
